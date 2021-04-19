@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #fcfcfb;
+  --primary-color: #FFFBB2;
   --border-color: #dadde1;
   --secondary-color: #bb5a5a;
 }
@@ -15,7 +15,7 @@ body {
 }
 
 #intro-background {
-  background: url(../images/yellow dinosaur games.png);
+  background: url(../images/yellowdinosaurgames.png);
   background-size: cover;
   background-position: center;
   background-repeat: no repeat;
