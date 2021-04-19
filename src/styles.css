@@ -15,10 +15,9 @@ body {
 }
 
 #intro-background {
-  background: url(../images/yellowdinosaurgames.png);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no repeat;
+           position:relative;
+          height: 75%;
+          width: 100%;
 }
 
 .main-content {
